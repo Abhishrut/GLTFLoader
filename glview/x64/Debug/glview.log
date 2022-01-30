@@ -1,0 +1,21 @@
+﻿  glview.cc
+E:\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\packages\nupengl.core.0.1.0.1\build\native\include\GLFW\glfw3.h(92): message : see previous definition of 'APIENTRY'
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(327,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(326,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(325,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(324,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(331,66): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(332,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(333,66): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(334,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(336,66): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(337,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(414,47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(450,104): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(793,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(895,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(1303,59): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(1460,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abhis\Desktop\tinygltf-master\examples\glview\glview.cc(1608,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  glview.vcxproj -> C:\Users\abhis\Desktop\tinygltf-master\examples\glview\x64\Debug\glview.exe
